@@ -6,8 +6,10 @@ title: Research Question
 ## Research Question
 
 Research Question:
+
 How can degradable/disposable materials be used to create an aquatic dynamic
 foldable robot?
+
 Tractability:
 This research question is tractable because it allows various aspects to be further
 explored. Some of these aspects include: how long the robot will be of use before it degrades,
@@ -15,6 +17,7 @@ will the robot float above the water or traverse underneath the water, will the 
 bioinspired method of motion, etc. As the question is, it incorporates the entire desired scope
 of the project with both room for expandability and specific enough constraints to be
 achievable in a semester.
+
 The team will break the project into three parts over the course of the 15 week
 semester allowing adequate time to research each three parts and integrate them into one
 functioning unit. These three parts consist of: using a degradable material that can be folded
@@ -25,6 +28,7 @@ team will start by researching potential solutions with the following constraint
 be degradable within a reasonable time (less than one year), the robot must be able to be
 mobile for a period of time (1min) on the surface of water without sinking, and the robot will
 used bio inspired motion of a fish.
+
 There are multiple problems to be solved in the construction of a simple aquatic
 biodegradable foldable robot, but these obstacles need to be broken down to verify that they
 are able to be addressed in a single semester. These questions include: how can this robot be
@@ -33,7 +37,9 @@ buoyant and water-resistant, but also biodegradable in water when disposed of? W
 exact environment the device will be in and how does that affect performance/degradability?
 (saltwater vs freshwater, coldwater vs warm water)? How long will these materials last, and
 how will performance be affected by degradation.
+
 Novelty:
+
 Using search engines provided by the ASU Library website, the following keywords were
 used to find potential references and other journal articles regarding the same and/or similar
 topics: robotics, water, disposable, degradable, foldable. When searching for references with
