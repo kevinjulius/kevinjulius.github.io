@@ -23,6 +23,8 @@ _Italic Text_
 
 ## Research Question
 
+[link to research question](/research_question)
+
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
