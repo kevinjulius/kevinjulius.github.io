@@ -8,11 +8,11 @@ title: Biodegradable Aquatic Foldable Robot
 
 **Kevin Julius**
 
-**Romney Kellogg **
+**Romney Kellogg**
 
-**Sangit Singhal **
+**Sangit Singhal**
 
-**Siddhaarthan Akila Dhakshinamoorthy **
+**Siddhaarthan Akila Dhakshinamoorthy**
 
 _Italic Text_
 **_Bold and Italic Text_**
