@@ -17,6 +17,10 @@ title: Biodegradable Aquatic Foldable Robot
 _Italic Text_
 **_Bold and Italic Text_**
 
+## Bibliography
+
+[link to bibliography](/bibliography)
+
 ## Research Question
 
 * Bullet Point 1
